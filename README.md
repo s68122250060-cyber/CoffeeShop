@@ -9,8 +9,8 @@ public class CoffeeShop {
     t2.start();
     t3.start();
 
-System.out.println("🛎 รับออเดอร์ครบแล้ว");
+    System.out.println("🛎 รับออเดอร์ครบแล้ว");
   }
 }
 
-##1
+# 1
