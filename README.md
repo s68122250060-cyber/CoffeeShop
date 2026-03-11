@@ -13,4 +13,8 @@ public class CoffeeShop {
   }
 }
 
-# 1
+# 1 ตอบ เพราะว่า Thread ทำงานพร้อมกัน (Concurrency) และถูกจัดการโดย Thread
+Scheduler ของ JVM / OS
+
+## 2 
+
